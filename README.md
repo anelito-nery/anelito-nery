@@ -1,3 +1,4 @@
+
 Olá,
 
 É um prazer tê-lo aqui no meu GitHub. Permita-me apresentar um pouco sobre mim:
@@ -18,6 +19,7 @@ Sou um profissional da área de tecnologia, atualmente atuando como Analista de 
 ![mysql_original_wordmark_logo_icon_146417](https://github.com/user-attachments/assets/13aa9b80-c0cd-4c0e-a0f4-407480a5060f)
 ![oracle_original_logo_icon_146401](https://github.com/user-attachments/assets/fb1126d9-f820-4166-921d-a53dbead0367)
 ![nodejs_original_wordmark_logo_icon_146412](https://github.com/user-attachments/assets/e951afb7-2266-4d13-a2da-0116f888093c)
+![icons8-typescript-48](https://github.com/user-attachments/assets/21678c9c-6b3a-4e9e-9a55-203fd0821540)
  
 
 Você pode me acompanhar também no meu LinkedIn  [Anelito Nery](www.linkedin.com/in/anelito-nery-691211a3)
